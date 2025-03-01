@@ -2,6 +2,14 @@ Esse é um boilerplate para um backend feito em NestJS utilizando Typescript e T
 
 Esse boilerplate já contém todas as configurações necessárias para que haja conexão com o banco de dados (PostgreSQL, mas pode ser facilmente para outros bancos relacionais).
 
+#### Importante:
+
+Ao baixar, lembre-se de instalar as dependências do projeto antes de fazer qualquer coisa:
+
+```bash
+  npm install
+```
+
 ## Principais comandos:
 
 #### Rodar o projeto
